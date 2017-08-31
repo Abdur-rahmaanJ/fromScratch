@@ -1,0 +1,3 @@
+
+def printIt():
+	print("it")
